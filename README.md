@@ -1,5 +1,5 @@
-<div class="tenor-gif-embed" data-postid="25721930" data-share-method="host" data-aspect-ratio="1.18959" data-width="100%"><a href="https://tenor.com/view/bugs-video-games-software-developer-gif-25721930">Bugs Video Games GIF</a>from <a href="https://tenor.com/search/bugs-gifs">Bugs GIFs</a></div> 
-
+![bugs-video-games](https://github.com/chanyinwing/chanyinwing/assets/86142998/32a9401c-4176-4933-b3f4-06df2c21a679)
+![Header](./bugs-video-games.png)
 <h3 align="center">A passionate frontend developer from Hong Kong</h3>
 
 - 📫 How to reach me **katuechanca@gmail.com**
