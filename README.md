@@ -1,5 +1,4 @@
-<div class="tenor-gif-embed" data-postid="25721930" data-share-method="host" data-aspect-ratio="1.18959" data-width="100%"><a href="https://tenor.com/view/bugs-video-games-software-developer-gif-25721930">Bugs Video Games GIF</a>from <a href="https://tenor.com/search/bugs-gifs">Bugs GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
+<div class="tenor-gif-embed" data-postid="25721930" data-share-method="host" data-aspect-ratio="1.18959" data-width="100%"><a href="https://tenor.com/view/bugs-video-games-software-developer-gif-25721930">Bugs Video Games GIF</a>from <a href="https://tenor.com/search/bugs-gifs">Bugs GIFs</a></div> 
 
 <h3 align="center">A passionate frontend developer from Hong Kong</h3>
 
