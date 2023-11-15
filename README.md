@@ -1,6 +1,6 @@
 
 ![bugs-video-games](https://github.com/chanyinwing/chanyinwing/assets/86142998/8e0a4d71-6571-45f4-9cc6-b50a5563bd7f)
-![Header](./bugs-video-games.png)
+![Header](./bugs-video-games.gif)
 
 
 
