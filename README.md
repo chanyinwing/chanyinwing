@@ -1,5 +1,4 @@
-![bugs-video-games](https://github.com/chanyinwing/chanyinwing/assets/86142998/32a9401c-4176-4933-b3f4-06df2c21a679)
-![Header](./bugs-video-games.png)
+
 <h3 align="center">A passionate frontend developer from Hong Kong</h3>
 
 - 📫 How to reach me **katuechanca@gmail.com**
