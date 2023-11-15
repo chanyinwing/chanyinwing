@@ -1,6 +1,6 @@
 
-<p align="center">![bugs-video-games](https://github.com/chanyinwing/chanyinwing/assets/86142998/97ef6f17-7004-41a7-929e-c58cc2191301)
-</p>
+<p><img align="center" src="https://github.com/chanyinwing/chanyinwing/assets/86142998/97ef6f17-7004-41a7-929e-c58cc2191301"</p>
+
 
 <h1 align="center">Hi 👋, I'm Katis</h1>
 <h3 align="center">A passionate frontend developer from Hong Kong</h3>
