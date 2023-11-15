@@ -1,6 +1,6 @@
-<div style="display: flex">
-<div style=""justify-content: center>![bugs-video-games](https://github.com/chanyinwing/chanyinwing/assets/86142998/8e0a4d71-6571-45f4-9cc6-b50a5563bd7f)
-![Header](./bugs-video-games.png)</div>
+
+![bugs-video-games](https://github.com/chanyinwing/chanyinwing/assets/86142998/8e0a4d71-6571-45f4-9cc6-b50a5563bd7f)
+![Header](./bugs-video-games.png)
 
 
 
@@ -22,5 +22,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chanyinwing&show_icons=true&locale=en&layout=compact" alt="chanyinwing" /></p>
 
-
-</div>
