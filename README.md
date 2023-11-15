@@ -1,4 +1,5 @@
 ![github-header-image](https://github.com/chanyinwing/chanyinwing/assets/86142998/b2b46801-79ef-49da-b1ac-0f532b9bf07a)
+![Header](./github-header-image.png)
 
 
 <h3 align="center">A passionate frontend developer from Hong Kong</h3>
