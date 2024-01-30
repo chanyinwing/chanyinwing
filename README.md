@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **katuechanca@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1048CTc2WB71Nw4Mc_n4Tx2ECrFD4UuIL/view?usp=share_link](https://drive.google.com/file/d/1048CTc2WB71Nw4Mc_n4Tx2ECrFD4UuIL/view?usp=share_link)
+- 📄 Know about my experiences [[share_link](https://drive.google.com/file/d/1D02Ff_sUHf5snYJSjgXiSZgwct7DtuUT/view?usp=share_link)]
 
 - ⚡ Fun fact **I love playing league of legends**
 
