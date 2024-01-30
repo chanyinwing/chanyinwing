@@ -10,12 +10,12 @@
 
 - 💬 Ask me about **React, Vue, php**
 
-- 📫 How to reach me **katuechanca@gmail.com**
+- 📫 How to reach me: **katuechanca@gmail.com**
 
-- 📄 Know about my experiences [[Resume](https://drive.google.com/file/d/1D02Ff_sUHf5snYJSjgXiSZgwct7DtuUT/view?usp=share_link)]
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1D02Ff_sUHf5snYJSjgXiSZgwct7DtuUT/view?usp=share_link)
 
 
-- 📁 My Previous Works: [[Resource-Managing_System](https://www.esi-asia.com/product/intelligent-room-booking-system/#1510823904825-ef0a6b43-cc2e00b0-aa88)]  [[Tailor-made Website](https://mattress.casablanca.com.hk)]
+- 📁 My Previous Works: [Resource-Managing_System](https://www.esi-asia.com/product/intelligent-room-booking-system/#1510823904825-ef0a6b43-cc2e00b0-aa88)]  [[Tailor-made Website](https://mattress.casablanca.com.hk)
 
 
 - ⚡ Fun fact **I love playing league of legends (Big fan of Keria)**
