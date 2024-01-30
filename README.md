@@ -18,7 +18,7 @@
 - 📁 My Previous Works: [[Resource-Managing_System](https://www.esi-asia.com/product/intelligent-room-booking-system/#1510823904825-ef0a6b43-cc2e00b0-aa88)]  [[Tailor-made Website](https://mattress.casablanca.com.hk)]
 
 
-- ⚡ Fun fact **I love playing league of legends**
+- ⚡ Fun fact **I love playing league of legends (Big fan of Keria)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
