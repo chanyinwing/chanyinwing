@@ -6,8 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chanyinwing&label=Profile%20views&color=0e75b6&style=flat" alt="chanyinwing" /> </p>
 
-- 🌱 I’m currently learning **react, laravel**
-
+- 🌱 I’m currently seaking opportunity in Toronto as a Software Developer/ Full-stack Developer/ Web Developer
 - 💬 Ask me about **React, Vue, php**
 
 - 📫 How to reach me: **katuechanca@gmail.com**
